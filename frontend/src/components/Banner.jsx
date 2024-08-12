@@ -1,5 +1,5 @@
 import React from 'react'
-import banner from "../"
+import banner from "../Banner.jpg"
 
 
 
